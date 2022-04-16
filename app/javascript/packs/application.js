@@ -11,6 +11,6 @@ import "channels"
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
-
+import "sortable.min"
 import "controllers"
 import "bootstrap"
